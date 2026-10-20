@@ -1,0 +1,20 @@
+{
+  "name": "nextjs-enterprise-saas-starter",
+  "version": "1.0.0",
+  "description": "Full-stack Next.js 15 App Router Enterprise SaaS Starter with Server Actions, Zod validation, and Multi-Tenancy",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test dist/**/*.test.js"
+  },
+  "author": "Felipe Madison",
+  "license": "MIT",
+  "dependencies": {
+    "next": "15.0.0",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "zod": "3.23.8"
+  },
+  "devDependencies": {
+    "typescript": "5.4.5"
+  }
+}
